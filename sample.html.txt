@@ -1,1 +1,1 @@
-<h1>This is Git </h1> one
+<h1>This is Git </h1>
